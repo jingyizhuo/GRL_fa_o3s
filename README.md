@@ -24,7 +24,7 @@ python plot_fig4.py     # -> figures/fig4.png
 |---|---|
 | CESM2 | CESM2 as released (large double-ITCZ / equatorial cold-tongue bias) |
 | CESM2-FA | CESM2 with flux adjustment, which strongly reduces the tropical mean-state bias |
-| hist-o3s | Ozone-only historical experiment, 1950–2021, 9 members (`r1i2, r2i2, r3i2, r4i2, r5i2, r7i2, r8i2, r9i2, r11i2`); all quantities below are ensemble means |
+| hist-o3s | Ozone-only historical experiment, 1950–2021, 9 members; all quantities below are ensemble means |
 | B1850 | Pre-industrial control, used for the climatological mean state (model years 0051–0150) |
 
 Trends are reported as the **total change over the period**, i.e.
