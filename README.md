@@ -1,8 +1,10 @@
 # Mean-state dependence of the Pacific response to Antarctic ozone depletion
 
-Data and plotting code for Figures 1–4 of
+https://zenodo.org/badge/1315389471.svg
 
-> Zhuo et al., *Muted eastern Pacific cooling response to stratospheric ozone depletion linked to double-ITCZ bias*, submitted to **Geophysical Research Letters**.
+
+
+Data and plotting code for Figures 1–4 of > Zhuo et al., *Muted eastern Pacific cooling response to stratospheric ozone depletion linked to double-ITCZ bias*, submitted to **Geophysical Research Letters**.
 
 Every script is self-contained: it reads only the small NetCDF files under
 `data/` and writes a PNG to `figures/`. No access to the raw model output is
